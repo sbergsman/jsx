@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(el);
 
 // create a component
 function App(){
-    return <h1>Hi there!</h1>;
+    return <h1>Hi there Steve!</h1>;
 }
 
 //show on the screen
