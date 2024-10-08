@@ -10,6 +10,5 @@ const el = document.getElementById('root');
 const root = ReactDOM.createRoot(el);
 
 
-
-//show on the screen
+//show on the screen bleh
 root.render(<App />);
